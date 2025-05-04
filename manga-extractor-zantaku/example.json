@@ -1,0 +1,17 @@
+{
+  "manga": {
+    "id": "a96676e5-8ae2-425e-b549-7f15dd34a6d8",
+    "title": "Berserk",
+    "coverUrl": "https://uploads.mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/cover.jpg",
+    "chapters": [
+      {
+        "id": "7337d26a-428a-4a0e-9f5b-8a6a14a773f4",
+        "chapter": "1",
+        "pages": [
+          "https://s2.mangadex.org/data/7337d26a-428a-4a0e-9f5b-8a6a14a773f4/01.jpg"
+        ]
+      }
+    ]
+  }
+}
+
